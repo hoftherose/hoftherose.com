@@ -27,24 +27,24 @@ author_location: Mexico
 author_website_url: "http://hoftherose.github.io"
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: National Autonomous University of Mexico ENES Morelia
+              company_logo: unam.png
+              company_url: http://www.enesmorelia.unam.mx/
+              designation: Teachers Assitant
+              description: Evaluated assignments and gave lectures on various subjects like Formal Automata Theory, Linear Algebra and Deep Learning 
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
+            - company_name: Mexican Math Olympiad for Basic Education, Morelia (OMMEB)
+              company_logo: ommeb.png
               company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              designation: State Delegate
+              description: Planning courses and gathering funding for the state competition.
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+              - college_logo: unam.png
+                college_name: UNAM ENES Morelia
+                college_url: https://www.enesmorelia.unam.mx/
+                college_degree: IT in Science
                 description: Bachelor of Technology
                 visibility: true
 
@@ -130,7 +130,7 @@ paginate_path: "/blog/page/:num/"
 defaults:
   -
     scope:
-      path: "gallery"
+      path: "portfolio"
     values:
       permalink: /:path/:basename:output_ext
 
