@@ -10,27 +10,21 @@ urls:
 
     - text: About Me
       url: /
-    - text: Blog
+    - text: Portfolio
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
 
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hello, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: Hector de la Rosa Prado
+author_bio: University Student currently interested in Machine Learning, especialy applied to Audio/Video and Reinforcement learning.
+author_email: "hoftherose@gmail.com"
+author_location: Mexico
+author_website_url: "http://hoftherose.com"
 
 author_work_experiences:
             - company_name: Google
@@ -67,16 +61,16 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: hoftherose
+github_username:  hoftherose
+facebook_username: hoftherose
+linkedin_username: hoftherose
+behance_username: hoftherose
+instagram_username: hoftherose
+medium_username: hoftherose
+telegram_username: hoftherose
+dribbble_username: hoftherose
+flickr_username: hoftherose
 
 #for comments using disqus
 disqus_shortname: sujay-kundu
@@ -88,7 +82,7 @@ wakatime_username: sujaykundu777
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: hoftherose@gmail.com
 
 # syntax highlighter
 markdown: kramdown
