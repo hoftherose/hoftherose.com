@@ -47,7 +47,7 @@ html[data-theme="light"] {
     --newsletter-background-color: #00000008;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
      /* Dark Mode */
     html,
     html[data-theme="dark"] {
