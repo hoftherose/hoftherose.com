@@ -3,7 +3,7 @@ subtitle: Resume page
 description: >- # this means to ignore newlines until "baseurl:"
   Get to know me a bit more, and checkout my projects while you're here!
 
-url: "https://hoftherose.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://hoftherose.netlify.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -24,7 +24,7 @@ author: Hector de la Rosa Prado
 author_bio: University student currently enrolled in the UNAM Mexico. Interested in machine and deep learning research and applications.
 author_email: "hoftherose@gmail.com"
 author_location: Mexico
-author_website_url: "http://hoftherose.github.io"
+author_website_url: "https://hoftherose.netlify.com"
 
 author_work_experiences:
             - company_name: National Autonomous University of Mexico ENES Morelia
