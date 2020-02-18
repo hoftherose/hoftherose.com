@@ -136,7 +136,7 @@ defaults:
 
 # Build settings
 
-theme: devlopr
+remote_theme: devlopr
 plugins:
   - jekyll-feed
   - jekyll-paginate
